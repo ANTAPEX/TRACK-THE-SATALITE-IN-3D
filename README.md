@@ -1,4 +1,4 @@
-# NASA INTERNATIONAL SPACE APPS CHALLENGE
+
 # Track-the-Space-Station-in-3D
 ### The Challenge
 Applications that track the International Space Station are easy to find online, but their features and capabilities vary. Our challenge is to build and publish an open-source web application that tracks the space station in three dimensions.
@@ -11,5 +11,3 @@ Users would benefit from an open-source web application that tracks the space st
 Objectives
 Our challenge is to use open-source software and information available from NASA to build a feature-rich web application (i.e., an application on a website that is accessible via a web browser—not a desktop application) that tracks the space station and provides interactive, 3D visualizations of Earth, the space station orbit, and the Station itself. Think about the interesting features that someone using our app might appreciate. 
 
-Our documentation will mention the NASA-produced components we utilized.
-The application will be published under an open-source license.
