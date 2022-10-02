@@ -11,3 +11,4 @@ Users would benefit from an open-source web application that tracks the space st
 ### Objectives
 Our challenge is to use open-source software and information available from the likes of NASA and SPACE-X to build a feature-rich web application (i.e., an application on a website that is accessible via a web browser—not a desktop application) that tracks the space station and provides interactive, 3D visualizations of Earth, the space station orbit, and the Station itself. Think about the interesting features that someone using our app might appreciate. 
 
+### Resources
