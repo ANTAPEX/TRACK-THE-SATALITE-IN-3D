@@ -43,4 +43,4 @@ Additional search engine keywords that could yield helpful information include:
 
 
 
-### Resources
+### <code>Resources</code>
