@@ -1,6 +1,5 @@
 
-### <h1><code>TRACK-THE-SATALITE-IN-3D
-</code></h1> <hr>
+### <h1><code>TRACK-THE-SATALITE-IN-3D</code></h1> <hr>
 
 ### <code>The Challenge</code>
 <!-- Applications that track the International Space Station are easy to find online, but their features and capabilities vary. Our challenge is to build and publish an open-source web application that tracks the space station in three dimensions. -->
